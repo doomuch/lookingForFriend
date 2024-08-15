@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "TurquoiseSansRegular";
+  src: url('webFonts/TurquoiseSansRegular/font.woff2') format('woff2'), url('webFonts/TurquoiseSansRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TurquoiseSansInline";
+  src: url('webFonts/TurquoiseSansInline/font.woff2') format('woff2'), url('webFonts/TurquoiseSansInline/font.woff') format('woff');
+}
